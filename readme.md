@@ -10,12 +10,12 @@ Update 2016-04-04: Someone else has made a VFP syntax colorizing tool for VFP Co
 ##Installation - Installing Extensions
 VS Code looks for extensions under your user folder in the .vscode/extensions folder. Depending on your platform it is located:
 
-- Windows %USERPROFILE%\.vscode\extensions
+- Windows %USERPROFILE%\\.vscode\extensions
 - Mac $HOME/.vscode/extensions
 - Linux $HOME/.vscode/extensions
 
 So, copy the "foxpro" folder in this source code into your user folder under .vscode/extensions.  The final folder structure (on a Windows machine) will be something like:
-- C:\Users\UserName\\.vscode\extensoins\foxpro
+- C:\Users\UserName\\.vscode\extensions\foxpro
 
 ![alt text](http://content.screencast.com/users/MattSlay/folders/Snagit/media/dcc3ac0a-9cd3-4437-964d-d00eb9cb0d5f/10.04.2015-23.50.png "screenshot")
 
